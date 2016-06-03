@@ -1,4 +1,4 @@
-# -Chef_and_Coins_Game
+# Chef_and_Coins_Game
 Who will win the game
 
 Chef is playing a game with his friend Misha. They have a pile containg N coins. Players take alternate turns, removing some coins from the pile. On each turn, a player can remove either one coin or coins equal to some prime power (i.e. px coins, where p - prime number and x - positive integer). Game ends when the pile becomes empty. The player who can not make a move in his turn loses.
